@@ -7,3 +7,6 @@ Bem-vindo à página da cafeteria Serenatto, um projeto desenvolvido como parte 
 - **Offcanvas:** Utilizamos o componente offcanvas do Bootstrap para criar um menu lateral elegante e funcional em telas menores, facilitando a navegação.
 - **Modais:** Modalidades de Bootstrap são empregadas para fornecer informações adicionais, como promoções especiais, eventos ou detalhes de produtos.
 - **Modo Noturno:** Implementamos um modo noturno para melhorar a experiência do usuário em ambientes de baixa luminosidade. Os usuários podem alternar entre os modos claro e escuro para atender às suas preferências.
+
+## Página
+https://cafeteria-serenatto-gold.vercel.app
